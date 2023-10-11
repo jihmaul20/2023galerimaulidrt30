@@ -127,3 +127,31 @@ section .img-tinggi img {
     width: 65%;
     height: 65%;
 }
+
+footer {
+    justify-content: center;
+    justify-items: center;
+    background-color: burlywood;
+    font: white;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+footer, p {
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    font-size: 1rem;
+    transform: scale(1.1);
+    color: white;
+    background-color: var(--biru);
+}
+
+footer p button {
+    transform: scale(1.1);
+    transition: all .5s linear;
+    text-transform: uppercase;
+    border-radius: 5rem;
+    cursor: pointer;
+    color: black;
+}
