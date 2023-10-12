@@ -9,7 +9,6 @@ body {
     background: whitesmoke;
     justify-content: center;
     justify-items: center;
-    position: flex;
 }
 
 section {
@@ -137,7 +136,7 @@ footer {
     padding-bottom: 0.5rem;
 }
 
-footer p {
+footer, p {
     text-align: center;
     justify-content: center;
     justify-items: center;
