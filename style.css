@@ -76,7 +76,7 @@ section .img-lebar img {
     height: 100%;
 }
 
-swction .img-tinggi {
+section .img-tinggi {
     background-color: #333;
     overflow: auto;
     white-space: nowrap;
