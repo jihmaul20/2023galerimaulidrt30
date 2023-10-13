@@ -57,7 +57,7 @@ h2, h3{
     background: var(--pink);
 }
 
-.img-lebar {
+section .img-lebar {
     background-color: #333;
     overflow: auto;
     white-space: nowrap;
@@ -65,7 +65,7 @@ h2, h3{
     height: 100%;
 }
 
-.img-lebar img {
+section .img-lebar img {
     margin-top: 1rem;
     margin-bottom: 1rem;
     justify-content: center;
@@ -76,7 +76,7 @@ h2, h3{
     height: 100%;
 }
 
-.img-tinggi {
+swction .img-tinggi {
     background-color: #333;
     overflow: auto;
     white-space: nowrap;
@@ -84,7 +84,7 @@ h2, h3{
     height: 100%;
 }
 
-.img-tinggi img {
+section .img-tinggi img {
     margin-top: 1rem;
     margin-bottom: 1rem;
     justify-content: center;
@@ -95,7 +95,7 @@ h2, h3{
     height: auto;
 }
 
-.img-lebar p {
+section .img-lebar p {
     align-items: center;
     text-align: center;
     justify-content: center;
@@ -105,7 +105,7 @@ h2, h3{
     padding-right: 1rem;
 }
 
-.mp4-lebar, video, source {
+section .mp4-lebar, video, source {
     display: inline-flex;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -116,7 +116,7 @@ h2, h3{
     height: 100%;
 }
 
-.mp4-tinggi, video, source {
+section .mp4-tinggi, video, source {
     display: inline-block;
     margin-top: 1rem;
     margin-bottom: 1rem;
